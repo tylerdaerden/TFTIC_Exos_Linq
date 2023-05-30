@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Exo_Linq_Context\Exo_Linq_Context.csproj" />
+  </ItemGroup>
+
 </Project>
